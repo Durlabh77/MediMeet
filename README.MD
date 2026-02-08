@@ -132,7 +132,7 @@ To set up and run this project locally:
    ```bash
    cd backend
    npm install
-   npm run dev
+   npm run server
    ```
 
 4. **Run the Application**:
